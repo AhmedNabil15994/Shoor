@@ -1,3 +1,3 @@
-## About Vendo Project
+## About Shoor Project
 
-Core E-commerce Test Project
+Multi Vendors E-commerce Project
